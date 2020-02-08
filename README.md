@@ -1,6 +1,6 @@
 # EGC
 
-The homework assignments for the Computer Graphics Elements.
+The homework assignments for the Computer Graphics Elements course.
 
 ## Flappy Bird
 An implementation of the game "Flappy Bird".
